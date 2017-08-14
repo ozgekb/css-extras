@@ -1,0 +1,121 @@
+
+header{
+  position:relative;
+  top: 20px;
+  border-bottom: 1px solid;
+  border-color:rgba(128, 128, 128, 0.38);
+  border-width: thin;
+  width: 100%;
+
+
+
+}
+
+i.search{
+  content:&#128269;
+
+  position: relative;
+  right:30px;
+}
+.include{
+ /*background-image: url(/Users/boyraz/myGit/css-extras/medium/body_background.png);*/
+background-image: url(https://cdn-images-1.medium.com/max/600/1*VaIUbgV3e-aj_Pa73xzWVA.png);
+background-position: center bottom;
+background-size: 100% auto;
+background-repeat: no-repeat;
+margin-right: auto;
+margin-left: auto;
+box-sizing: border-box;
+min-height: 500px;
+max-width: 1000px!important;
+position: relative;
+top:-50px;
+}
+.menu{
+  border-top: 1px solid;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-color: rgba(128, 128, 128, 0.38);
+  width: 2
+
+
+}
+.body_text{
+  width:50%;
+  font-size: 32px!important;
+
+}
+#body_header_p{
+  position: relative;
+line-height: 1!important;
+letter-spacing: .01rem!important;
+font-weight: 400!important;
+font-style: normal!important;
+margin-bottom: 30px;
+font-size: 60px;
+margin-left: 50px;
+margin-top: 70px;
+top: 30px;
+font-family: sans-serif;
+
+}
+#body_text_p{
+      position: relative;
+      top:30px;
+      font-size: 20px;
+      line-height: 30px;
+      margin-left: 50px;
+      font-family: sans-serif;
+      font-weight: lighter;
+
+}
+#body_button{
+  position: relative;
+  margin-left: 50px;
+  top:30px;
+  font-size: 40px;
+
+}
+.write{
+  position: relative;
+  text-align: right;
+  width: 100%;
+}
+button{
+  width:150px;
+  height: 40px;
+  border-radius: 30px;
+  border-color: black;
+  color: white;
+  background-color: rgba(120, 205, 216, 0);
+}
+span{
+  text-align: right;
+  margin: 7px;
+  padding: 10px;
+  padding-top: 7px;
+  margin-left: 10px;
+  margin-right: 3px;
+  margin-top: 5px;
+  top: 10px;
+}
+#button_link{
+  text-decoration: none;
+}
+button:link, button:visited {
+
+    border:1px solid
+
+
+}
+a:hover, a:active {
+    opacity: 4;
+
+background-color: black;
+}
+
+
+
+html{
+      text-size-adjust: 100%;
+}
